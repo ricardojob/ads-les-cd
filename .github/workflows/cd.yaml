@@ -17,4 +17,4 @@ jobs:
           host: 'www.pythonanywhere.com'
           username: 'ricardojob'
           api-token: 'b61838971c2ac3be84ff663bd1e0bc523c29d1f6'
-          domain-name: 'user.pythonanywhere.com'
+          domain-name: 'ricardojob.pythonanywhere.com'
