@@ -15,6 +15,6 @@ jobs:
         uses: jensvog/pythonanywhere-webapp-reload-action@v1
         with:
           host: 'www.pythonanywhere.com'
-          username: {{ secrets.USERNAME }}
-          api-token: {{ secrets.API_TOKEN }}
-          domain-name: {{ secrets.DOMAIN_NAME }}
+          username: 'ricardojob'
+          api-token: 'b61838971c2ac3be84ff663bd1e0bc523c29d1f6'
+          domain-name: 'user.pythonanywhere.com'
