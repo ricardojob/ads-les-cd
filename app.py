@@ -16,7 +16,7 @@ def index():
         resultado=resultado
     )
 
-def calc(a, b, operacao):
+def calc(a, b, operacao): 
     if operacao == "soma":
         resultado = soma(a, b)
     elif operacao == "subtracao":
